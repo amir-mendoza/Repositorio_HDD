@@ -1,2 +1,1 @@
-<<<<<<< HEAD
 Prueba #2 Conflicto master
