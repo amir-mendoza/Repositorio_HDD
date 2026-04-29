@@ -13,4 +13,4 @@ estudiante.nombre = "Mariela D az"
 estudiante.edad = 25
 estudiante.curso = "SQL Server"
 estudiante.universidad = "UNMSM"
-print(estudiante)
+print(estudiante)asdasdasd
